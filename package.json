@@ -1,7 +1,7 @@
 {
   "name": "console-log-simple",
   "version": "1.0.0",
-  "description": "(Logs a message to the Console)",
+  "description": "Used to Log a message to the Console",
   "main": "index.js",
   "author": "Vicktor Moberg",
   "homepage": "https://github.com/VickM12/ConsoleLog",
