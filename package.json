@@ -1,0 +1,9 @@
+{
+  "name": "console-log",
+  "version": "1.0.0",
+  "description": "(Logs a message to the Console)",
+  "main": "index.js",
+  "author": "Vicktor Moberg",
+  "license": "MIT",
+  "keywords": ["console", "log", "js", "javascript"]
+}
