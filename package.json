@@ -1,5 +1,5 @@
 {
-  "name": "console-log",
+  "name": "console-log-simple",
   "version": "1.0.0",
   "description": "(Logs a message to the Console)",
   "main": "index.js",
