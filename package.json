@@ -4,6 +4,7 @@
   "description": "(Logs a message to the Console)",
   "main": "index.js",
   "author": "Vicktor Moberg",
+  "homepage": "https://github.com/VickM12/ConsoleLog",
   "license": "MIT",
   "keywords": ["console", "log", "js", "javascript"]
 }
