@@ -1,5 +1,5 @@
 
-# console-log
+# console-log-simple
 
 A simple function that wraps `console.log` to log various types of inputs to the console. Use it to easily log different data types and values.
 
@@ -8,15 +8,15 @@ A simple function that wraps `console.log` to log various types of inputs to the
 Install the package via npm:
 
 ```bash
-npm install console-log
+npm install console-log-simple
 ```
 
 ## Usage
 
-Simply require the `console-log` package and start logging:
+Simply require the `console-log-simple` package and start logging:
 
 ```javascript
-const consoleLog = require('console-log');
+const consoleLog = require('console-log-simple');
 
 consoleLog("Testing");
 consoleLog(3 + 4);
